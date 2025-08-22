@@ -71,6 +71,37 @@ Clear navigation, intuitive interfaces, and responsive design make it easier for
 - Confidently complete bookings
 - Have a positive overall experience, leading to repeat usage and recommendations.
 
+---
+
+### 🎨 Design Properties from Figma
+
+#### Color Styles
+
+- **Primary Color**: `#FF5A5F`
+- **Secondary Color**: `#008489`
+- **Background Color**: `#FFFFFF`
+- **Primary Text Color**: `#222222`
+- **Secondary Text Color**: `#717171`
+
+#### Typography
+
+- **Primary Font**: Circular
+- **Headings**: Circular, Bold (700), 24px – 32px
+- **Body Text**: Circular, Medium (500), 16px
+- **Secondary Text**: Circular, Book (400), 14px
+
+---
+
+### 🔑 Importance of Identifying Design Properties
+
+Understanding design properties in a mockup is crucial because:
+
+- It ensures **consistency** across all UI components.
+- It helps developers **translate Figma designs into real code** without guesswork.
+- It supports **responsive and accessible design**, making the app usable across devices.
+- It makes collaboration between **designers and developers** smooth and efficient.
+- It speeds up the process by having a **single source of truth** for colors, typography, and styles.
+
 ## Author
 
 Prince David Anyomi
