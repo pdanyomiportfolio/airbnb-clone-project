@@ -154,6 +154,32 @@ A successful project requires clear roles and well-defined responsibilities. Bel
 - Removes blockers to keep the team productive
 - Promotes collaboration and adherence to Agile principles
 
+## UI Component Patterns
+
+To ensure reusability, scalability, and consistency in the Airbnb Clone project, the following UI components are planned:
+
+### 🔝 Navbar
+
+- Contains logo, search bar, and user navigation options
+- Responsive design for desktop, tablet, and mobile views
+- Provides quick access to key pages
+
+### 🏠 Property Card
+
+- Displays property image, price, location, and rating
+- Includes a “favorite” (wishlist) button
+- Responsive grid layout for listing view
+
+### 📑 Footer
+
+- Contains site navigation links (About, Contact, Help, etc.)
+- Displays company info and social media links
+- Ensures consistent layout across all pages
+
+---
+
+These components will follow a **modular and reusable pattern**, making it easier to maintain consistency across the application and scale the project as it grows.
+
 ## Author
 
 Prince David Anyomi
