@@ -102,6 +102,58 @@ Understanding design properties in a mockup is crucial because:
 - It makes collaboration between **designers and developers** smooth and efficient.
 - It speeds up the process by having a **single source of truth** for colors, typography, and styles.
 
+## Project Roles and Responsibilities
+
+A successful project requires clear roles and well-defined responsibilities. Below are the key roles in the Airbnb Clone project and their contributions:
+
+### 👩🏾‍💼 Project Manager
+
+- Oversees the project timeline and deliverables
+- Coordinates communication across the team
+- Ensures milestones are completed on schedule
+
+### 💻 Frontend Developers
+
+- Implement responsive UI components using React (or chosen framework)
+- Ensure visual consistency across pages
+- Collaborate closely with designers to bring Figma mockups to life
+
+### ⚙️ Backend Developers
+
+- Build and maintain APIs for property data and booking functionality
+- Manage database design and business logic
+- Ensure data integrity and security
+
+### 🎨 Designers
+
+- Create UI/UX mockups and maintain design system
+- Define color schemes, typography, and component patterns
+- Ensure smooth and intuitive user experiences
+
+### 🧪 QA/Testers
+
+- Write and execute test cases
+- Perform unit, integration, and user acceptance testing
+- Report bugs and ensure system reliability
+
+### 🛠️ DevOps Engineers
+
+- Set up deployment pipelines and manage CI/CD
+- Configure server infrastructure and cloud hosting
+- Ensure application availability, scalability, and performance
+
+### 📋 Product Owner
+
+- Defines requirements and prioritizes features
+- Represents stakeholder needs
+- Ensures product delivers value to end-users
+
+### 📅 Scrum Master
+
+- Facilitates Agile ceremonies (stand-ups, sprint planning, retrospectives)
+- Removes blockers to keep the team productive
+- Promotes collaboration and adherence to Agile principles
+
 ## Author
 
 Prince David Anyomi
